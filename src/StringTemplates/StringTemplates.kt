@@ -1,3 +1,5 @@
+package StringTemplates
+
 fun main(args: Array<String>) {
     var name: String = "Oleh"
 
