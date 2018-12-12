@@ -2,7 +2,7 @@ fun main(args: Array<String>) {
 
     var a0: String = "string"
 
-    var a2: Short = 123 // 16 bit
+    val a2: Short = 123 // 16 bit
     var a3: Int = 123 //32 bit
     var a4: Long = 123 //64 bit
     var a5: Double = 1.23e2 //64 bit
